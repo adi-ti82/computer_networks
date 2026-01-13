@@ -1,0 +1,18 @@
+-Hub was one of the earliest networking devices, developed to let local systems communicate among themselves.
+-It receives data and broadcasts to all devices(ports) connected without knowing who is the real receiver.
+-It works only on physical layer (Layer 01).
+-It has no MAC address, can't filter data, can't prioritize packets, can't block devices.
+
+
+### The drawbacks
+- i) loaded with too much of data traffic.
+- ii) thus, collision (i.e. multiple devices send data at same time.)
+-     After collision device detect collision (CSMA/CD) wait for some time and resends data. 
+- iii) no privacy or security.
+- iv) very slow as systems gets added. (Bandwidth is shared among devices)
+- v)  half-duplex (i.e. can't send or receive data simultaneously.)
+
+Because of these drawbacks we no longer (or rare of the rarest time ) use hub in modern tech.
+
+### Types of hub
+- See you next time.
