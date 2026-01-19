@@ -1,12 +1,18 @@
-<div align="center>
-<h1> Performance </h1>
-</div>
-#Terms to consider:
-<div align="center">
 # 4.1. Bandwidth
-</div>
 - Bandwidth ia the maximum data-carrying capacity of a communication channel per unit time.
 
+### Two different measuring values: 
+- 1) Bandwidth in Hertz: 
+  - tells how wide the frequency pipe is.
+  - Basically, range of frequency a signal or channel occupies.
+  - Bandwidth(Hz) = f<sub>high</sub> - f<sub>low</sub>
+  
+  
+- 2) Bandwidth in bits/sec:
+   - tells how much daat flows through the pipe.
+   - number of bits transmitted per sec.
+ 
+     
 ### Units:
 - bps: bits per sec
 - Kbps: kilobits per sec
