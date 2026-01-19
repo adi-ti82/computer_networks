@@ -28,7 +28,7 @@
 - So, Bandwidth is the maximum amount of data packets (water) that can cross the channel at a time.
 - The more the data (water) flow the higher is the bandwidth.
 
-# Isn't it a fact that air is huge (infinite), then why are we limited to 10Mbps or 100 Mbps etc?
+### Isn't it a fact that air is huge (infinite), then why are we limited to 10Mbps or 100 Mbps etc?
 ### Understand:-
 - Data isn't sent directly throught air, we uses EM waves to do so.
 - Data is converted to Radio waves, which uses specific frequency bands and these bands are finite.
