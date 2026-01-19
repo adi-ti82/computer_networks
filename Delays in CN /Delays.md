@@ -29,8 +29,8 @@
 
 - We are limited to a fixed capacity because:
 -1) more frequency width = more bandwidth but Spectrum is finite.
-2) Noise is there in air and it limits how much data we can safely pack.
-3)Shared Medium, more users less bandwidth per user.
+-2) Noise is there in air and it limits how much data we can safely pack.
+-3)Shared Medium, more users less bandwidth per user.
 
 
 
