@@ -40,7 +40,7 @@
 - 3) Shared Medium, more users less bandwidth per user.
  
 
-# Relationship: 
+### Relationship: 
   - an increase in bandwidth in hertz means an increase in bandwidth in bits per second
 
 # 4.2 Throughput
@@ -61,7 +61,7 @@
 ### Example: 
 - A link has a bandwidth of 1 Mbps, but the devices connected to the end of the link may handle only 200 kbps
 
-# Latency (Delay)
+# 4.3. Latency (Delay)
 - how long it takes for an entire message to completely arrive at the destination from the time the first bit is sent out from the source.
 - Latency = propagation time + transmission time + queuing time + processing delay
 
